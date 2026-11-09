@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Inversión Publicitaria Colombia (1995-2030)",
+  "description": "Dashboard ejecutivo de análisis histórico y simulador interactivo de proyecciones publicitarias en Colombia (1995 - 2030) con modelado de escenarios para medios digitales y tradicionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
